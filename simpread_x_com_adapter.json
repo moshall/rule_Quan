@@ -1,0 +1,15 @@
+{
+  "name": "x.com",
+  "url": "https://x.com/*/status/*",
+  "title": "<title>",
+  "desc": "",
+  "include": [
+    [
+      "//article[@role='article']"
+    ]
+  ],
+  "exclude": [],
+  "avatarName": "",
+  "avatarUrl": "",
+  "prev": ""
+}
